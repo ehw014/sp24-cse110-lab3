@@ -8,6 +8,17 @@ h3 {
     color:      hsl(228, 72%, 33%);
 }
 section {
-    background-color:   orange    
+    background-color:   orange;
+}
+ol {
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 3cm;
+    border-radius: 3em;
+}
+details{
+    color:      hsl(228, 72%, 33%);
+    text-decoration-line: line-through;
+    text-align: left;
 }
 /* color-mix(in lch, brown, red); */
