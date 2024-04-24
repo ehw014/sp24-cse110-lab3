@@ -1,0 +1,15 @@
+h1 {
+    color:      rgb(101, 41, 41);
+}
+h2 {
+    color:      #ee5d5d;
+}
+h3 {
+    color:      orange;
+}
+section {
+    background-color:   color-mix(in lch, brown, red);      
+}
+video {
+    
+}
