@@ -5,8 +5,9 @@ h2 {
     color:      #ee5d5d;
 }
 h3 {
-    color:      orange;
+    color:      hsl(228, 72%, 33%);
 }
 section {
-    background-color:   color-mix(in lch, brown, red);      
+    background-color:   orange    
 }
+/* color-mix(in lch, brown, red); */
